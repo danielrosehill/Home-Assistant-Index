@@ -2,7 +2,7 @@
 
 [![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Github-Master-Index)
 
-**Last Updated:** October 26, 2025
+**Last Updated:** March 27, 2026
 
 A curated index of Daniel Rosehill's Home Assistant repositories, organized by theme.
 
@@ -10,11 +10,62 @@ A curated index of Daniel Rosehill's Home Assistant repositories, organized by t
 
 ## Table of Contents
 
+- [Automations](#automations)
+- [Claude / AI Management](#claude--ai-management)
 - [Code & Configuration Snippets](#code--configuration-snippets)
+- [Components & Integrations](#components--integrations)
+- [Desktop Control](#desktop-control)
 - [General Dashboards](#general-dashboards)
 - [Getting Started](#getting-started)
 - [Israeli & Jewish Observance](#israeli--jewish-observance)
+- [MQTT & Messaging](#mqtt--messaging)
+- [Snapcast / Multi-Room Audio](#snapcast--multi-room-audio)
 - [Specialized Dashboards](#specialized-dashboards)
+- [Other](#other)
+
+---
+
+## Automations
+
+### Home Assistant Red Alert Automations
+
+Home Assistant automations for Oref Alert integration with TTS announcements for red alert events in Israel
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Home-Assistant-Red-Alert-Automations)
+
+### Home Assistant Power Outage Automation
+
+HA automation for power outage detection
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Home-Assistant-Power-Outage-Automation)
+
+---
+
+## Claude / AI Management
+
+### Claude Home Assistant Manager Template
+
+Template for a Claude Code config at the base of a HAOS filesystem
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Claude-Home-Assistant-Manager-Template)
+
+### Home Assistant Manager Plugin
+
+A comprehensive Home Assistant OS management template with 20+ slash commands for health monitoring, backup management, integration support, and automation assistance
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/home-assistant-manager-plugin)
+
+### Home Assistant Manager
+
+Home Assistant Manager
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Home-Assistant-Manager)
+
+### Home Assistant Claude Manager Private
+
+Home Assistant Claude manager (private)
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/home-assistant-claude-manager-private)
 
 ---
 
@@ -43,6 +94,32 @@ Created: January 30, 2025
 Code snippets for Home Assistant dashboard elements
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Home-Assistant-YAML-Snippets)
+
+---
+
+## Components & Integrations
+
+### HA White Noise Component
+
+Home Assistant white noise component
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/HA-White-Noise-Component)
+
+---
+
+## Desktop Control
+
+### Home Assistant Desktop Control
+
+Home Assistant desktop control
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/home-assistant-desktop-control)
+
+### HA Desktop Control
+
+Home Assistant desktop control
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/HA-Desktop-Control)
 
 ---
 
@@ -139,6 +216,60 @@ Created: April 18, 2025
 A Home Assistant dashboard for emergency alerts (Tzeva Adom) in Israel with and without live news
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/HA-Red-Alert-News-Dash)
+
+---
+
+## MQTT & Messaging
+
+### Desktop MQTT MCP Bridge
+
+Desktop MQTT listener with MCP bridge
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Desktop-MQTT-MCP-Bridge)
+
+### Home Assistant Telegram Bot
+
+Home Assistant Telegram Bot
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Home-Assistant-Telegram-Bot)
+
+---
+
+## Snapcast / Multi-Room Audio
+
+### Snapcast MCP
+
+Local MCP for Snapcast
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Snapcast-MCP)
+
+### Snapcast Setup
+
+Documentation for home Snapcast multi-room audio setup
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/snapcast-setup)
+
+---
+
+## Other
+
+### HA Advisors Podcast
+
+HA Advisors Podcast
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/HA-Advisors-Podcast)
+
+### Headless Home Assistant
+
+A couple of resources and nomenclature for headless HA
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Headless-Home-Assistant)
+
+### Home Assistant Creep
+
+Home Assistant Creep
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Home-Assistant-Creep)
 
 ---
 
