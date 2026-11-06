@@ -2,7 +2,7 @@
 
 [![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Start-Here)
 
-**Last Updated:** October 2026
+**Last Updated:** November 2026
 
 A curated index of Daniel Rosehill's Home Assistant repositories, organized by theme.
 
@@ -16,6 +16,7 @@ A curated index of Daniel Rosehill's Home Assistant repositories, organized by t
 - [General Dashboards](#general-dashboards)
 - [Getting Started](#getting-started)
 - [Israeli & Jewish Observance](#israeli--jewish-observance)
+- [Patches, Fixes & Workarounds](#patches-fixes--workarounds)
 - [Specialized Dashboards](#specialized-dashboards)
 - [Other](#other)
 
@@ -148,6 +149,16 @@ Created: March 29, 2024
 A Home Assistant grocery list optimised for the needs of Israeli consumers.
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/MakoletTime)
+
+---
+
+## Patches, Fixes & Workarounds
+
+### Zigbee2MQTT Coordinator Auto-Recovery
+
+Home Assistant automation that restarts Zigbee2MQTT after a network coordinator outage, once the Supervisor watchdog has given up
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Zigbee2MQTT-Coordinator-Auto-Recovery)
 
 ---
 
