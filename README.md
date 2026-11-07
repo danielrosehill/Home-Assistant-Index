@@ -142,6 +142,14 @@ Simple designed Home Assistant dashboard for Shabbat / Yom Tov times
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/HA-Shabbat-Dashboard-0125)
 
+### Zmanim Shabbat HA Integration
+
+Created: November 7, 2026
+
+Simple custom integration: zmanim, Shabbat and Yom Tov status, parasha, Hebrew date, fasts and a generated dashboard, with English and Hebrew names and announcement and light flash blueprints
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Zmanim-Shabbat-HA-Integration)
+
 ### MakoletTime
 
 Created: March 29, 2024
